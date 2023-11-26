@@ -9,9 +9,9 @@ Projeto fictício de um site responsivo desenvolvido durante o curso 'HTML e CSS
 ## Estrutura do Projeto
 
 O projeto é estruturado da seguinte forma:
-- /index.html\: Página principal do site.
-- /style.css\: Estilos CSS para o site.
-- /img\: Pasta contendo as imagens utilizadas no projeto.
+- ./index.html\: Página principal do site.
+- ./style.css\: Estilos CSS para o site.
+- ./img\: Pasta contendo as imagens utilizadas no projeto.
 
 ## Capturas de Tela
 
